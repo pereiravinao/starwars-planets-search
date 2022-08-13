@@ -1,16 +1,24 @@
-# 🚧 README em construção 🚧
 
-<!-- Olá, Tryber!
+# Star Wars Planet Search
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+Uma lista com filtros de planetas do universo de Star Wars usando Context API e Hooks para controlar os estados globais.
 
-É essencial que você preencha esse documento por conta própria, ok?
+## 🛠 Habilidades
+- Utilizar a Context API do React para gerenciar estado.
+- Utilizar o React Hook useState;
+- Utilizar o React Hook useContext;
+- Utilizar o React Hook useEffect;
+- Criar React Hooks customizados.
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+## Autores
 
--->
+- [@pereiravinao](https://www.github.com/pereiravinao)
+
+
+
+## Apêndice
+
+Este projeto contém um template de uma aplicação React criado e configurado pela escola Trybe
+
+
